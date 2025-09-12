@@ -10,7 +10,8 @@ const Brand = (props) => {
       role={'presentation'}
       onClick={() => navigate('/')}
     >
-     {/* <h4>Hertling</h4> */}
+     <h4>Art by Hertling</h4>
+
 
       >
         <path
