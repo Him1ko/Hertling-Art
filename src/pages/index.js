@@ -116,7 +116,7 @@ const IndexPage = () => {
       {/* Promotion */}
       <div className={styles.sustainableContainer}>
         <Hero
-          image={toOptimizedImage('/photo-1660394585016-508f949df960.jpeg')}
+          image={toOptimizedImage('/dc070d51e5e1bd3208835ba362732586.jpg')}
           title={'Materials & Process'}
           subtitle={
             'Every piece is crafted with care, using high-quality materials and thoughtful techniques. From start to finish, the process is designed to bring each unique vision to life.'
