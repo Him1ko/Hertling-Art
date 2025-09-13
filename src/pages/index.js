@@ -79,9 +79,9 @@ const IndexPage = () => {
             altImage={'highlight image'}
             miniImage={'/highlightmin.png'}
             miniImageAlt={'mini highlight image'}
-            title={'Luxury Knitwear'}
-            description={`This soft lambswool jumper is knitted in Scotland, using yarn from one of the world's oldest spinners based in Fife`}
-            textLink={'shop now'}
+            title={'One of One'}
+            description={`Each piece in this collection is completely unique even one of a kind, never to be repeated.`}
+            textLink={'discover'}
             link={'/shop'}
           />
         </Container>
@@ -89,19 +89,19 @@ const IndexPage = () => {
 
       {/* Promotion */}
       <div className={styles.promotionContainer}>
-        <Hero image={toOptimizedImage('/banner2.png')} title={`-50% off \n All Essentials`} />
+        <Hero image={toOptimizedImage('/banner2.png')} title={`Made in \n Berlin`} />
         <div className={styles.linkContainers}>
-          <Link to={'/shop'}>WOMAN</Link>
-          <Link to={'/shop'}>MAN</Link>
+          <Link to={'/shop'}>Physical Originals</Link>
+          <Link to={'/shop'}>Digital Originals</Link>
         </div>
       </div>
 
       {/* Quote */}
       <Quote
         bgColor={'var(--standard-light-grey)'}
-        title={'about Sydney'}
+        title={'about Hertling'}
         quote={
-          '“We believe in two things: the pursuit of quality in everything we do, and looking after one another. Everything else should take care of itself.”'
+          '"I believe in two things: creating art that speaks for itself, and valuing the people who experience it. Everything else will follow naturally."'
         }
       />
 
@@ -117,9 +117,9 @@ const IndexPage = () => {
       <div className={styles.sustainableContainer}>
         <Hero
           image={toOptimizedImage('/banner3.png')}
-          title={'We are Sustainable'}
+          title={'Materials & Process'}
           subtitle={
-            'From caring for our land to supporting our people, discover the steps we’re taking to do more for the world around us.'
+            'Every piece is crafted with care, using high-quality materials and thoughtful techniques. From start to finish, the process is designed to bring each unique vision to life.'
           }
           ctaText={'read more'}
           maxWidth={'660px'}
