@@ -40,12 +40,12 @@ const IndexPage = () => {
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-          This is a demonstration of the Sydney theme for verse by{' '}
-          <span className={styles.gold}>matter design.</span>
+          Creating art since{' '}
+          <span className={styles.gold}>1967.</span>
         </p>
         <p>
-          wear by <span className={styles.gold}>sunspel</span> and{' '}
-          <span className={styles.gold}>scotch&soda</span>
+          Born in Berlin’s creative underground, we’ve carried forward a  <span className={styles.gold}>tradition</span> of bold,{' '}
+          <span className={styles.gold}>expressive art</span> that speaks to its time {' '}
         </p>
       </div>
 
