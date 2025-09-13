@@ -89,7 +89,7 @@ const IndexPage = () => {
 
       {/* Promotion */}
       <div className={styles.promotionContainer}>
-        <Hero image={toOptimizedImage('/Graffiti-on-the-Berlin-Wall-7760139d8bd5.jpg.avif')} title={`Made in \n Berlin`} />
+        <Hero image={toOptimizedImage('/8c1c699c-5438-450c-a94a-ed7caa6d908b_1439468298.jpg')} title={`Made in \n Berlin`} />
         <div className={styles.linkContainers}>
           <Link to={'/shop'}>Physical Originals</Link>
           <Link to={'/shop'}>Digital Originals</Link>
