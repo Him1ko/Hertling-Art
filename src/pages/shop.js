@@ -36,17 +36,17 @@ const ShopPage = (props) => {
             <Breadcrumbs
               crumbs={[
                 { link: '/', label: 'Home' },
-                { link: '/', label: 'Woman' },
-                { label: 'Sweaters' },
+                { link: '/', label: 'Art' },
+                { label: 'Paintings' },
               ]}
             />
           </div>
         </Container>
         <Banner
           maxWidth={'650px'}
-          name={`Woman's Sweaters`}
+          name={`PHYSICAL ORIGINALS`}
           subtitle={
-            'Look to our women’s sweaters for modern takes on one-and-done dressing. From midis in bold prints to dramatic floor-sweeping styles and easy all-in-ones, our edit covers every mood.'
+            'Authentic, original works spanning 50 years of creation.'
           }
         />
         <Container size={'large'} spacing={'min'}>
@@ -75,15 +75,15 @@ const ShopPage = (props) => {
             filters={Config.filters}
           />
           <div className={styles.chipsContainer}>
-            <Chip name={'XS'} />
-            <Chip name={'S'} />
+            <Chip name={'handmade'} />
+            <Chip name={'Limited Editions'} />
           </div>
           <div className={styles.productContainer}>
             <span className={styles.mobileItemCount}>476 items</span>
             <ProductCardGrid data={data}></ProductCardGrid>
           </div>
           <div className={styles.loadMoreContainer}>
-            <span>6 of 456</span>
+            <span>6 of 156</span>
             <Button fullWidth level={'secondary'}>
               LOAD MORE
             </Button>
