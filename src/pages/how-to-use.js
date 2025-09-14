@@ -33,20 +33,19 @@ const HowToUsePage = (props) => {
         </div>
         <Container size={'large'} spacing={'min'}>
           <div className={styles.content} style={{ paddingTop: '80px' }}>
-            <h3>Built By Matter.</h3>
+            <h3>Built By Hertling.</h3>
             <div id="#builtBy" ref={builtRef}>
               <p>
                 This theme is proudly brought to you by the team at{' '}
-                <Button target={true} href="https://matterdesign.com.au/">
+                <Button target={true} href="">
                   Matter Design & Digital
                 </Button>{' '}
                 (Matter.).
               </p>
               <p>
-                The Sydney theme is built for Netlify as an ecommerce theme
-                suitable for JAMStack archtitecture. This theme is free to use
-                through Netlify’s GitHub account, and can be used with any
-                ecommerce platform that support a headless architecture.
+                For over 50 years, our gallery has been dedicated to preserving and showcasing original works of art. 
+                Each piece reflects a journey of creativity, craftsmanship, and timeless expression. 
+                From one-of-a-kind originals to evolving styles across decades, the collection offers a window into the lasting power of art made by hand and heart.
               </p>
               <p>
                 Matter. has pre-built connections to microservices available
@@ -57,12 +56,12 @@ const HowToUsePage = (props) => {
                 website that is fast, stable and scalable for high traffic
                 events.
               </p>
-              <Button target={true} href="https://jamm.matter.design/">
-                Read more about JAMM.™
+              <Button target={true} href="www.artatberlin.com">
+                Read more about Art.™
               </Button>
               <img
                 alt={'JAMM Detail'}
-                src={toOptimizedImage('/how-to-use/jamm-sydney-1upd@2x.png')}
+                src={toOptimizedImage('/how-to-use/csm_BG-0210_0263_6448f65a7f.jpg')}
                 style={{ display: 'block', height: 'auto' }}
               />
             </div>
@@ -85,9 +84,7 @@ const HowToUsePage = (props) => {
                 advantage.
               </p>
               <p>
-                Matter. has been innovating since 2003, and we have aligned with
-                companies that do it best. The following technologies are either
-                currently available or are on our roadmap for JAMM.™.
+                
               </p>
 
               <strong>Ecommerce:</strong>
@@ -153,7 +150,7 @@ const HowToUsePage = (props) => {
               <p>
                 <Button
                   target={true}
-                  href="https://www.matterdesign.com.au/contact/"
+                  href="https://www.artatberlin.com/"
                 >
                   Contact the team at Matter.
                 </Button>
