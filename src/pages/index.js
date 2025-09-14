@@ -75,9 +75,9 @@ const IndexPage = () => {
       <div className={styles.highlightContainer}>
         <Container size={'large'} fullMobile>
           <Highlight
-            image={'/highlight.png'}
+            image={'/artworks-C44OiywzFzheJZZd-cAeqUw-t500x500.jpg'}
             altImage={'highlight image'}
-            miniImage={'/highlightmin.png'}
+            miniImage={'/avatars-rb9jqDvm9gGuv6yY-NfjgqA-t500x500.jpg'}
             miniImageAlt={'mini highlight image'}
             title={'One of One'}
             description={`Each piece in this collection is completely unique even one of a kind, never to be repeated.`}
