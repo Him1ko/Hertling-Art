@@ -14,7 +14,7 @@ const SearchPage = (props) => {
   const params = parse(props.location.search);
   const searchQuery = params.q ? params.q : '';
 
-  const sampleData = generateMockProductData(3, 'woman');
+  const sampleData = generateMockProductData(3, 'art');
 
   return (
     <Layout>
