@@ -28,7 +28,7 @@ const AboutPage = (props) => {
         <Hero
           maxWidth={'900px'}
           image={'/Bildschirmfoto 2025-09-16 um 12.00.07.png'}
-          title={`Sydney \n A British brand since 1860`}
+          title={`Hertling Artist since 1976`}
         />
 
         <div className={styles.navContainer}>
