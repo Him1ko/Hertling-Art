@@ -27,7 +27,7 @@ const AboutPage = (props) => {
         {/* Hero Container */}
         <Hero
           maxWidth={'900px'}
-          image={'/about.png'}
+          image={'/Bildschirmfoto 2025-09-16 um 12.00.07.png'}
           title={`Sydney \n A British brand since 1860`}
         />
 
@@ -49,16 +49,17 @@ const AboutPage = (props) => {
         <Container size={'large'} spacing={'min'}>
           <div className={styles.detailContainer} ref={historyRef}>
             <p>
-              Founded in 1860, Sydney is an innovative British brand with a
-              contemporary edge. We make timeless everyday luxury clothing.
+              Creating since 1976, Hertling is an innovative German artist with a
+              contemporary edge. He make's timeless art that makes poeple think.
             </p>
             <br />
             <br />
             <p>
-              We created some of the world's first T-shirts and spent decades
-              perfecting the feel of the cotton. Today we are the only brand
-              that makes T-shirts in its own factory in the UK. And we do this
-              in the same factory we have occupied since 1937.
+             He creates original artworks and has spent
+              decades refining his craft. Today, Hertling is one of the few studios 
+              that produces art entirely in-house. Every piece is made in the same workshop in Berlin
+              he has called home since the beginnings, carrying forward a tradition of creativity 
+              and precision that defines who he is.
             </p>
           </div>
         </Container>
