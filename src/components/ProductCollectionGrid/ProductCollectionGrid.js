@@ -7,15 +7,15 @@ const ProductCollectionGrid = (props) => {
   return (
     <div className={styles.root}>
       <ProductCollection
-        image={'/collections/collection1.png'}
-        title={'Men'}
-        text={'SHOP NOW'}
+        image={'/collections/artworks-sAbZSnXBJsbDusRP-XmtA7A-t500x500.jpg'}
+        title={'Digital'}
+        text={'View NOW'}
         link={'/shop'}
       />
       <ProductCollection
-        image={'/collections/collection2.png'}
-        title={'Women'}
-        text={'SHOP NOW'}
+        image={'/static/artworks-sAbZSnXBJsbDusRP-XmtA7A-t500x500.jpg'}
+        title={'Physical'}
+        text={'View NOW'}
         link={'/shop'}
       />
       <ProductCollection
