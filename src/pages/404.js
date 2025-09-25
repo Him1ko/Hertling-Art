@@ -13,7 +13,7 @@ const NotFoundPage = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     navigate(`/search?q=${search}`);
-  };
+  }
 
   return (
     <Layout disablePaddingBottom>
@@ -23,7 +23,7 @@ const NotFoundPage = () => {
           <h2>Page not found</h2>
           <p>
             Uh oh, looks like the page you are looking for has moved or no
-            longer exists.
+            longer exists. Or is it all ART.
           </p>
           <form onSubmit={(e) => handleSubmit(e)}>
             <div className={styles.searchContainer}>
