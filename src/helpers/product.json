@@ -44,12 +44,12 @@
         "tags": ["shirt", "men"]
     },
     {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 13.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman1.jpeg",
-        "tags": ["woman"],
-        "meta": "+ 2 colors"
+        "name": "Asche-stoff",
+        "price": 11900,
+        "alt": "original piece with ash and fabric",
+        "image": "Asche-stoff.png",
+        "tags": ["Arte Povera"],
+        "meta": "+ multipple diffrent fabrics"
     },
     {
         "name": "Relaxed-fit graphic T-shirt",
