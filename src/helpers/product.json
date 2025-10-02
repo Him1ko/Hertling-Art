@@ -52,11 +52,11 @@
         "meta": "+ multipple diffrent fabrics"
     },
     {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 15.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman2.jpeg",
-        "tags": ["woman"]
+        "name": "fießendeins der Esel",
+        "price": 10590,
+        "alt": "blody",
+        "image": "static/products/fießendeins der Esel.png",
+        "tags": ["Painting"]
     },    
     {
         "name": "Relaxed-fit graphic T-shirt",
