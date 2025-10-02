@@ -59,12 +59,12 @@
         "tags": ["Painting"]
     },    
     {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 13.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman3.jpeg",
-        "tags": ["woman"],
-        "meta": "+ 2 colors"
+        "name": "Block-quer",
+        "price": 13243,
+        "alt": "Block Against the Storm",
+        "image": "static/products/Block-quer.png",
+        "tags": ["Object-Painting"],
+        "meta": "+  Mixed-Media Assemblage"
     },
     {
         "name": "Relaxed-fit graphic T-shirt",
