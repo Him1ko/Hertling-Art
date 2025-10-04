@@ -106,10 +106,10 @@
 
     },
     {
-        "name": "Relaxed-fit graphic T-shirt",
+        "name": "dahintenlicht",
         "price": 21,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman1.jpeg",
-        "tags": ["woman"]
+        "alt": "art",
+        "image": "static/products/dahintenlicht.png",
+        "tags": ["painting"]
     }
   ]
