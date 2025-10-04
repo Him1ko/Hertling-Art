@@ -68,7 +68,7 @@
     },
     {
         "name": "Fließendzwei-sakral",
-        "price": 15.90,
+        "price": 15335.90,
         "alt": "fließend art",
         "image": "static/products/Fließendzwei-sakral.png",
         "tags": ["painting"]
@@ -84,7 +84,7 @@
     },
     {
         "name": "Relaxed-fit graphic T-shirt",
-        "price": 21,
+        "price": 18221,
         "alt": "relaxed t shirt woman",
         "image": "static/products/Gelbfeld.png",
         "tags": ["painting"]
@@ -107,7 +107,7 @@
     },
     {
         "name": "dahintenlicht",
-        "price": 21,
+        "price": 22221,
         "alt": "art",
         "image": "static/products/dahintenlicht.png",
         "tags": ["painting"]
