@@ -67,34 +67,34 @@
         "meta": "+  Mixed-Media Assemblage"
     },
     {
-        "name": "Relaxed-fit graphic T-shirt",
+        "name": "Fließendzwei-sakral",
         "price": 15.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman4.jpeg",
-        "tags": ["woman"]
+        "alt": "fließend art",
+        "image": "static/products/Fließendzwei-sakral.png",
+        "tags": ["painting"]
     },
     {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 15.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman5.jpeg",
-        "tags": ["woman"],
-        "originalPrice": 31.50
+        "name": "Goldfließzwei",
+        "price": 3315.90,
+        "alt": "art",
+        "image": "static/products/Goldfließzwei.png",
+        "tags": ["painting"],
+        "originalPrice": 9000.50
 
     },
     {
         "name": "Relaxed-fit graphic T-shirt",
         "price": 21,
         "alt": "relaxed t shirt woman",
-        "image": "/products/woman6.jpeg",
-        "tags": ["woman"]
+        "image": "static/products/Gelbfeld.png",
+        "tags": ["painting"]
     },
     {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 15.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman3.jpeg",
-        "tags": ["woman"]
+        "name": "goldfließ",
+        "price": 8900.90,
+        "alt": "mixed art",
+        "image": "static/products/goldfließ.png",
+        "tags": ["painting"]
     },
     {
         "name": "Bleikreuz",
