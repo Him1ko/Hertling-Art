@@ -13,19 +13,19 @@ const ProductCollectionGrid = (props) => {
         link={'/shop'}
       />
       <ProductCollection
-        image={'/static/artworks-sAbZSnXBJsbDusRP-XmtA7A-t500x500.jpg'}
+        image={'static/products/Gelbfeld.png'}
         title={'Physical'}
         text={'View NOW'}
         link={'/shop'}
       />
       <ProductCollection
-        image={'/collections/collection1.png'}
+        image={'/collections/collections/Neues Projekt.jpg'}
         title={'Apparel'}
         text={'SHOP NOW'}
         link={'/shop'}
       />
       <ProductCollection
-        image={'/collections/fabd80a453e230c80b3bda84f2c6f256.jpg'}
+        image={'/collections/fabd80a453e230c80b3bda84f2c6f256-2.jpgp'}
         title={'Statues&models'}
         text={'SHOP NOW'}
         link={'/shop'}
