@@ -3,24 +3,24 @@
         "productCode": "MJUM8066-GYDZ",
         "name": "Asche Stoff",
         "vendor": "Hertling",
-        "price": 75,
+        "price": 11900,
         "alt": "Abstract textured painting",
-        "image": "/products/Asche-stoff.png",
+        "image": "/Asche-stoff.png",
         "colorOptions": [
             {"color": "#000000", "title": "Anthracite Melange"},
             {"color": "#4D34AE", "title": "Pale Purple"},
             {"color": "#488266", "title": "Green Moss"}
         ],
-        "sizeOptions": ["xs", "s", "m", "l", "xl"],
+        "sizeOptions": ["original"],
         "wishlist": true,
         "tags": ["sample"],
         "gallery": [
-            {"image": "/products/Asche-stoff.png", "alt": "pdp description 1"},
+            {"image": "Asche-stoff.png", "alt": "pdp description 1"},
             {"image": "/products//assets-task_01k6rp3cgef8099gy2rfq4yjew-1759617690_img_1.webp", "alt": "pdp description 2"},
             {"image": "/products/assets-task_01k6rpy6bkfxpar1thskt6z2p1-1759618594_img_1.webp", "alt": "pdp description 3"},
             {"image": "/products/Bildschirmfoto 2025-10-04 um 17.57.03.png", "alt": "pdp description 4"}
         ],
-        "description": "A study in tension and transformation, this piece blends fabric, rope, and pigment into a textured landscape of earth tones and folds. The bound surfaces evoke both strength and fragility — a quiet dialogue between control and chaos, material and memory."
+        "description": "A study in tension and transformation, this piece blends fabric, rope, and pigment into a textured landscape of earth tones and folds. Unique 1:1 piece, never to be made again."
     },
     {
         "name": "Classic T-Shirt",
