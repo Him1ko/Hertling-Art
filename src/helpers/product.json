@@ -37,7 +37,7 @@
         "name": "Classic T-Shirt",
         "price": 75,
         "alt": "classic t-shirt 3",
-        "image": "/products/shirt3.jpg",
+        "image": "/products/nNPTWlGEYV7.png",
         "tags": ["shirt", "men"]
     },
     {
@@ -45,7 +45,7 @@
         "price": 11900,
         "alt": "original piece with ash and fabric",
         "image": "Asche-stoff.png",
-        "tags": ["Arte Povera"],
+        "tags": ["shirt", "men"],
         "meta": "+ multipple diffrent fabrics"
     },
     {
@@ -53,14 +53,14 @@
         "price": 10590,
         "alt": "blody",
         "image": "/products/fießendeins der Esel.png",
-        "tags": ["Painting"]
+        "tags": ["shirt", "men"]
     },    
     {
         "name": "Block-quer",
         "price": 13243,
         "alt": "Block Against the Storm",
         "image": "/products/Block-quer.png",
-        "tags": ["Object-Painting"],
+        "tags": ["shirt", "men"],
         "meta": "+  Mixed-Media Assemblage"
     },
     {
@@ -68,14 +68,14 @@
         "price": 15335.90,
         "alt": "fließend art",
         "image": "/products/Fließendzwei-sakral.png",
-        "tags": ["painting"]
+        "tags": ["shirt", "men"]
     },
     {
         "name": "Goldfließzwei",
         "price": 3315.90,
         "alt": "art",
         "image": "/products/Goldfließzwei.png",
-        "tags": ["painting"],
+        "tags": ["shirt", "men"],
         "originalPrice": 9000.50
 
     },
@@ -84,21 +84,21 @@
         "price": 18221,
         "alt": "relaxed t shirt woman",
         "image": "/products/Gelbfeld.png",
-        "tags": ["painting"]
+        "tags": ["shirt", "men"]
     },
     {
         "name": "goldfließ",
         "price": 8900.90,
         "alt": "mixed art",
         "image": "/products/goldfließ.png",
-        "tags": ["painting"]
+        "tags": ["shirt", "men"]
     },
     {
         "name": "Bleikreuz",
         "price": 6555,
         "alt": "artzy",
         "image": "/products/Bleikreuz.png",
-        "tags": ["painting"],
+        "tags": ["shirt", "men"],
         "originalPrice": 9551
 
     },
@@ -107,6 +107,6 @@
         "price": 22221,
         "alt": "art",
         "image": "/products/dahintenlicht.png",
-        "tags": ["painting"]
+        "tags": ["shirt", "men"]
     }
   ]
