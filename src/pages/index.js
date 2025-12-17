@@ -30,7 +30,7 @@ const IndexPage = () => {
       {/* Hero Container */}
       <Hero
         maxWidth={'500px'}
-        image={'blurred gallery.webp'}
+        image={'blurred-gallery.webp'}
         title={'Art by Hertling'}
         subtitle={'Discover the Gallery'}
         ctaText={'shop now'}
